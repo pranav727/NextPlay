@@ -14,7 +14,12 @@ NextPlay is a dynamic platform for discovering and staying updated on the latest
 
 - **HTML5** – Structuring the web pages.  
 - **CSS3** – Styling with modern design principles.  
-- **JavaScript (ES6+)** – Adding interactivity and dynamic content.  
+- **JavaScript (ES6+)** – Adding interactivity and dynamic content.
+
+## 🎥 ShowCase Demo  
+
+🔹 **Live Demo**: [NextPlay Live](https://your-live-demo-link.com)  
+🔹 **Preview:** 
 
 ## LinkedIn Profile: https://www.linkedin.com/in/hazari-pranav-1044111b9
 ## Email: pranavhazari@gmail.com
