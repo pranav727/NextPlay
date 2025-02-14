@@ -18,7 +18,7 @@ NextPlay is a dynamic platform for discovering and staying updated on the latest
 
 ## 🎥 ShowCase Demo  
 
-🔹 **Live Demo**: [NextPlay Live](https://your-live-demo-link.com)  
+🔹 **Live Demo**: [NextPlay Live](https://pranav727.github.io/NextPlay/)  
 🔹 **Preview:** 
 
 ## LinkedIn Profile: https://www.linkedin.com/in/hazari-pranav-1044111b9
